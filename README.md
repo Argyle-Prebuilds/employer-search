@@ -1,5 +1,6 @@
 ## Employer Search
-![image](https://user-images.githubusercontent.com/18395671/167415584-26ddef0f-92c6-425c-8bee-a4432beb85f4.png)
+![employer_search_cover](https://user-images.githubusercontent.com/18395671/170442681-7c830aa3-46d2-41a2-b4fe-01cd2e9a652b.png)
+
 
 Completing any application requires a user to manually enter the name of their employer. These text fields are free-form entries, error-prone, and are not governed by a fixed database. Just as Google auto-completes search entries, the Employer Search pre-build auto-completes employer name entries.
 
