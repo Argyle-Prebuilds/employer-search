@@ -6,7 +6,7 @@ Completing any application requires a user to manually enter the name of their e
 
 Employer Search uses Argyle’s database along with the Fortune 10k and the IRS’s registered payroll service providers, powering an in-line employer name auto-complete field. With this repository, you control and customize the data that matters most to you.
 
-You can try out the Employer Search demo [here](https://prebuild.argyle.com/employersearch) and learn more about its features here (link to docs to be added).
+You can try out the [Employer Search demo](https://prebuild.argyle.com/employersearch) and learn more about the features [here](https://docs.argyle.com/guides/docs/employer-search).
 
 ## Getting Started
 
